@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'curvefit': Curve estimation regression statistics and related plots between two variables for alternative curve estimation regression models Use curvefit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f curvefit.ado
+f curvefit.sthlp
